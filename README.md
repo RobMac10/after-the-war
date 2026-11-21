@@ -10,4 +10,5 @@ Care: the opener carries a care note with 13YARN and Lifeline. The Deaths in Cus
 
 The Yirrkala petition text and the Gurindji letter of 1967 are quoted briefly; permission is still to be sought.
 
-Not published. `noindex` and `robots.txt` block indexing. Draft, pending consultation.
+Search engines are asked not to index this app (`noindex` and `robots.txt`).
+
